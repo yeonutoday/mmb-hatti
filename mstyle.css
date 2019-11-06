@@ -1,0 +1,32 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+* {-webkit-text-size-adjust:none;} 
+
+BODY,TD,SELECT,input,DIV,form,TEXTAREA,center,option,pre,blockquote {  font-family: 'Nanum Gothic', Tahoma; font-size:9pt; letter-spacing: -1px; line-height:150%; }
+
+A {text-decoration:none;
+	-webkit-transition: all .2s linear;
+	-moz-transition: all .2s linear;
+	-ms-transition: all .2s linear;
+	-o-transition: all .2s linear;
+	transition: all .2s linear;}
+
+A:link    {color:#252525;text-decoration:none;}
+A:visited {color:#252525;text-decoration:none;}
+A:active  {color:#252525text-decoration:none;}
+A:hover  {color:#252525;text-decoration:none;}
+
+.non {font-family:Tahoma;font-size:7pt;}
+.button {font-family:Tahoma; font-size:7pt; letter-spacing: 0px; font-weight:bold;}
+.box {text-align:center; font-family:Tahoma; font-size:7pt; letter-spacing:0px;
+padding:5px;height:20px;}
+
+
+.cmtb {border:none;width:100% !important;}
+
+.checkbox{font-family:Tahoma;font-size:7pt;letter-spacing:-1px;}
+.checkbox2{width:11px; height:11px; margin:0px; font-size:9px !important;}
+
+
+
+.hide {display:none;}

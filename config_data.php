@@ -1,0 +1,14 @@
+<?
+$cfg_piclimit='1000';
+$cfg_bar_per_page='3';
+$cfg_pic_per_page='1';
+$cfg_recent='3';
+$max_width='10000';
+$min_width='10';
+$max_height='10000';
+$min_height='10';
+$max_width_comment='1';
+$cfg_allowSize='5120';
+$cfg_emolist='5';
+$cfg_allowExt='png,jpg,gif,bmp,jpeg';
+?>
